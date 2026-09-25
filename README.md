@@ -239,4 +239,4 @@ This repository serves as the official landing page for Zotero. The software is 
 **Get the most recent version of Zotero today!**
 
 ---
-**Last updated:** 2026-09-24 22:01:02 UTC
+**Last updated:** 2026-09-25 01:10:13 UTC
